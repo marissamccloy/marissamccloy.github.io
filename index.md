@@ -4,6 +4,7 @@ Hi there! My name is Marissa and I study journalism and graphic design at Lehigh
 [my Brown and White articles.](http://thebrownandwhite.com/author/mem220/)
 
 
+
 ##### Where do Lehigh Students Live?
 
 This is an infographic that I designed to illustrate where Lehigh undergraduate students live on campus. 
