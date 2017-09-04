@@ -1,6 +1,6 @@
 ## Marissa McCloy
 
-![Marissa McCloy}(marissamccloy.github.io/FullSizeRender (3).jpg)
+![Marissa McCloy](https://github.com/marissamccloy/marissamccloy.github.io/FullSizeRender (3).jpg)
 Hi there! My name is Marissa and I study journalism and graphic design at Lehigh University. Outside of school, I enjoy dancing, running, crafting and spending time outdoors. I'm originally from Lewes, Delaware. In addition to my work on this site, here are 
 [my Brown and White articles.](http://thebrownandwhite.com/author/mem220/)
 
