@@ -9,3 +9,9 @@ Hi there! My name is Marissa and I study journalism and graphic design at Lehigh
 
 This is an infographic that I designed using Canva. The data is from the Lehigh University Office of Institutional Research. 
 ![Lehigh Undergraduate Residence](https://github.com/marissamccloy/marissamccloy.github.io/blob/master/Lehigh%20Residence%20Infographic.png?raw=true)
+
+
+
+#### Timeline of the 2016 Rio Olympics
+This is a timeline of the 2016 Rio Olympics that I created using TimelineJS. 
+![2016 Rio Olympics](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Vo2-b_vHixWlCNwK5ouaP-mCpLc63ajXfQUIvMR-Beg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
