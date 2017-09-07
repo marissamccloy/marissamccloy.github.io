@@ -15,7 +15,7 @@ This is an infographic that I designed using Canva. The data is from the Lehigh 
 #### Social Media Preference Among U.S. Adults
 
 This is an infographic that I created with Canva to illustrate the percentage of American adults who use each popular social media platform.
-![Infographic](https://github.com/marissamccloy/marissamccloy.github.io/blob/master/infographic.png)
+![Infographic](https://marissamccloy.github.io/infographic.png)
 
 
 #### Timeline of the 2016 Rio Olympics
