@@ -29,5 +29,8 @@ This is a timeline of the 2016 Rio Olympics that I created using TimelineJS.
 
 
 
+
+#### Timeline of the History of Books
+This is a timeline taht I created outside of class to map a brief history of books. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1om0E4KI_WuhO2NLs5hjJgOdmoWrUC7XEAxEed-F8Du8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
