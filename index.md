@@ -5,13 +5,6 @@ Hi there! My name is Marissa and I study journalism and graphic design at Lehigh
 
 
 
-#### Where do Lehigh Students Live?
-
-This is an infographic that I designed using Canva. The data is from the Lehigh University Office of Institutional Research. 
-
-![Lehigh Undergraduate Residence](https://github.com/marissamccloy/marissamccloy.github.io/blob/master/Lehigh%20Residence%20Infographic.png?raw=true)
-
-
 
 
 #### Social Media Preference Among U.S. Adults
