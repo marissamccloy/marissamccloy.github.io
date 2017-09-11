@@ -38,5 +38,5 @@ This is a timeline that I created to map a brief history of books.
 
 #### Lehigh Undergraduate Enrollment by College
 This is a chart that I created using Chartbuilder. 
-![Undergraduate Enrollment] (marissamccloy.github.io/2016_Percent_of_Undergraduate_Enrollment_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png)
+![Undergraduate Enrollment](marissamccloy.github.io/2016_Percent_of_Undergraduate_Enrollment_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png)
 
