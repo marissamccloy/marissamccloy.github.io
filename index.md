@@ -34,4 +34,4 @@ This is a chart that I created using Chartbuilder.
 #### Lehigh Undergraduate Enrollment by College over the past 10 years
 This is a chart that I created using Chartbuilder. This line chart visualizes the changes in undergraduate enrollment across Lehigh's three colleges from 2007 to 2016. 
 
-![Undergraduate Enrollment] (https://github.com/marissamccloy/marissamccloy.github.io/blob/master/College%20enrollment.png)
+![Undergraduate Enrollment] (marissamccloy.github.io/College enrollment.png)
