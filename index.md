@@ -14,7 +14,7 @@ Hi there! My name is Marissa and I study journalism and graphic design at Lehigh
 
 This is an infographic that I created with Canva to illustrate the percentage of American adults that use each popular social media platform.
 
-![Infographic](https://marissamccloy.github.io/infographic.png)
+![Infographic](https://github.com/marissamccloy/marissamccloy.github.io/blob/master/Facebook-%20King%20of%20Communication.png?raw=true)
 
 
 
