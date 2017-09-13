@@ -35,3 +35,9 @@ This is a chart that I created using Chartbuilder.
 This is a chart that I created using Chartbuilder. This line chart visualizes the changes in undergraduate enrollment across Lehigh's three colleges from 2007 to 2016. 
 
 ![College Enrollment](https://github.com/marissamccloy/marissamccloy.github.io/blob/master/College%20enrollment.png)
+
+
+
+#### International Internet Growth
+This is a chart that I created with Chartbuilder to show the growth in worldwide internet usage over the past ten years. The chart shows the percentage of the world population that uses the internet from 2008 to 2017. 
+![Internet Growth](marissamccloy.github.io/Percentage_of_World_Population_that_uses_the_Internet_Percent_of_World_Population_chartbuilder.png)
