@@ -22,6 +22,7 @@ This is an infographic that I created with Canva to illustrate the percentage of
 This is a timeline that I created to map a brief history of books. 
 <iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
                                 
+                                
                             
                                
 
