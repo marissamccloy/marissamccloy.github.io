@@ -24,20 +24,6 @@ This is a timeline that I created to map a brief history of books.
 
 
 
-#### Lehigh Undergraduate Enrollment by College
-This is a chart that I created using Chartbuilder. 
-
-![Undergraduate Enrollment](marissamccloy.github.io/2016_Percent_of_Undergraduate_Enrollment_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png)
-
-
-
-#### Lehigh Undergraduate Enrollment by College over the past 10 years
-This is a chart that I created using Chartbuilder. This line chart visualizes the changes in undergraduate enrollment across Lehigh's three colleges from 2007 to 2016. 
-
-![College Enrollment](https://github.com/marissamccloy/marissamccloy.github.io/blob/master/College%20enrollment%201.png?raw=true)
-
-
-
 
 #### International Internet Growth
 This is a chart that I created with Chartbuilder to show the growth in worldwide internet usage over the past ten years. The chart shows the percentage of the world population that uses the internet from 2008 to 2017. 
