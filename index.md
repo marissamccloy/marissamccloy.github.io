@@ -45,9 +45,6 @@ This is a chart that I created with Chartbuilder to show the growth in worldwide
 ![Internet Growth](https://github.com/marissamccloy/marissamccloy.github.io/blob/master/Percentage_of_World_Population_that_uses_the_Internet_Percent_of_World_Population_chartbuilder.png?raw=true)
 
 
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+14J-oUtgGHP6zsyaq5atNHFPopsdIGD5IptmBLm7V&amp;viz=MAP&amp;h=false&amp;lat=40.617530024353506&amp;lng=-75.36609112243042&amp;t=1&amp;z=15&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
-
-
 
 
 
