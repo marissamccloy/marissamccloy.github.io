@@ -20,7 +20,7 @@ This is an infographic that I created with Canva to illustrate the percentage of
 
 #### Print Communication: Timeline of the History of Books
 This is a timeline that I created to map a brief history of books. 
-<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1om0E4KI_WuhO2NLs5hjJgOdmoWrUC7XEAxEed-F8Du8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
                                 
                                 
                             
