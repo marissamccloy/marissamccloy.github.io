@@ -26,9 +26,9 @@ This is a timeline that I created to map a brief history of books.
 
 
 #### International Internet Growth
-This is a chart that I created with Chartbuilder to show the growth in worldwide internet usage over the past ten years. The chart shows the percentage of the world population that uses the internet from 2008 to 2017. 
+This is a chart that I created with Chartbuilder to show the growth in worldwide internet usage over the past ten years. The chart shows the percentage of the world population that uses the internet from 2008 to 2017. In 2008, approximately 1,463,000,000 people worldwide used the internet. In 2017, approximately 3,885,000,000 people worldwide use the internet. 
 
-![Internet Growth](https://github.com/marissamccloy/marissamccloy.github.io/blob/master/Percentage_of_World_Population_that_uses_the_Internet_Percent_of_World_Population_chartbuilder.png?raw=true)
+![Internet Growth](marissamccloy.github.io/Percentage_of_World_Population_Using_Internet_Percent_of_World_Population_chartbuilder (1).png)
 
 
 
