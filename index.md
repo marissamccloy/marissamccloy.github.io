@@ -10,7 +10,7 @@ Hi there! My name is Marissa and I study journalism and graphic design at Lehigh
 I created this comic with Pixton to introduce myself and the purpose of my page. 
 
 
-![comic](marissamccloy.github.io/Screen Shot 2017-10-09 at 11.33.54 AM.png)
+![comic](https://github.com/marissamccloy/marissamccloy.github.io/blob/master/Screen%20Shot%202017-10-09%20at%2011.33.54%20AM.png)
 
 
 
