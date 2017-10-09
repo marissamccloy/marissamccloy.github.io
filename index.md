@@ -6,6 +6,12 @@ Hi there! My name is Marissa and I study journalism and graphic design at Lehigh
 
 ### On this page, I use data visualizations to tell stories about different modes of communication.
 
+#### Comic Strip
+I created this comic with Pixton to introduce myself and the purpose of my page. 
+
+
+<iframe src="//www.pixton.com/embed/h8lhpr7b" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
+
 
 
 
