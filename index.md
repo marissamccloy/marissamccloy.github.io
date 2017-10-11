@@ -45,7 +45,7 @@ This is a chart that I created with Chartbuilder to show the growth in worldwide
 
 
 #### America's Top 10 Daily Newspapers
-This Google Fusion interactive map shows the headquarter locations of America's 10 most highly circulated daily print newspapers. The map shows trends with offices in certain cities and includes circulation numbers and links for each publication.  
+This Google Fusion interactive map shows the headquarter locations of America's 10 most highly circulated daily print newspapers, as well as the circulation numbers and links for each publication. 
 
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1MCFhpy4VaNux5SziksGYhN3pozTYtNiZot2tYEeB&amp;viz=MAP&amp;h=false&amp;lat=54.52330936887864&amp;lng=-74.18902914387587&amp;t=1&amp;z=2&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
